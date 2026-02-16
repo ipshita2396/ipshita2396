@@ -29,7 +29,7 @@ I enjoy taking problems end-to-end — from raw data and data exploration to dep
 
 **Databases:** PostgreSQL | MySQL | Vector Databases 
 
-**##✍️ Writing & Medium Blog**
+##✍️ **Writing & Medium Blog**
 
 I regularly write about AI, machine learning, and data science on my Medium blog, sharing tutorials, project breakdowns, and insights from real-world applications.
 Check it out here: My Medium Blog
