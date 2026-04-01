@@ -19,11 +19,11 @@ I enjoy taking problems end-to-end — from raw data and data exploration to dep
 - ☁️ Cloud Deployment (Vertex AI, AWS, Azure)  
 - 🔍 Model Evaluation & Optimisation  
 
-**Languages:** Python | SQL | Java  
+**Languages:** Python | SQL | R  
 
-**ML & DL:** Scikit-learn | PyTorch | TensorFlow | XGBoost  
+**ML & DL:** Scikit-learn | PyTorch | TensorFlow | XGBoost | OpenCV | HuggingFace| Spacy 
 
-**NLP & GenAI:** Transformers | LangChain | LlamaIndex | OpenAI | Claude | Gemini  
+**NLP & GenAI:** Transformers | LangChain | LlamaIndex | OpenAI | Claude | Gemini | RAG| Langfuse| Agentic AI
 
 **Cloud:** GCP (Vertex AI) | AWS | Azure  
 
